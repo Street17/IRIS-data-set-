@@ -1,7 +1,7 @@
-#getting working directory
-getwd()
+#setting working directory where Iris file is located
+setwd()
 #Reading Iris data set in R
-R = read.csv("Iris.txt")
+R = read.csv("Iris_dataset.txt")
 #Adding column names in data set
 colnames(R) <- c("Sepal.Length", "Sepal.Width", "Petal.Length", "Petal.Width", "Species")
 #Checking names of column
