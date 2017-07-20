@@ -1,4 +1,4 @@
 # IRIS-data-set-
-In this project, I applied classification technique in R on IRIS_dataset. I have made a comparison between C5.0 and rpart classification algorithms as per accuracy. 
+In this project, I applied knn classification technique in R on IRIS_dataset. 
 
-I have added data and codes you need to reproduce my results. Thanks.
+The aim of this project is to train the model in such a way that it correctly identifies future Iris flower it encountered with.
